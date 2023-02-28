@@ -11,11 +11,11 @@ Java로 소프트웨어 및 웹개발을 해왔고 현재는 React, Typescript�
 ![HTML5][HTML5] ![css][css] ![JavaScript][JavaScript] ![TypeScript][TypeScript] ![jQuery][jQuery] ![React][React] ![Sass][Sass] ![styled-component][styled-component]
 
 ### Backend
-![Node.js][Node.js] ![MySQL][MySQL] ![Java][Java] 
+![MySQL][MySQL] ![Java][Java] 
 
 ### Collaboration
 ![Tomcat][Tomcat] ![Weblogic][Weblogic] <br />
-![Git][Git] ![GitHub][GitHub] ![Visual Studio Code][Visual Studio Code] ![Notion][Notion] ![Slack][Slack] ![Trello][Trello]
+![GitHub][GitHub]  ![Slack][Slack] ![Trello][Trello] ![Notion][Notion]
 
 [HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
