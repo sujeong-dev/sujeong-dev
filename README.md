@@ -1,6 +1,7 @@
 ## 저의 Github에 찾아와주셔서 감사합니다 🙌
-#### 안녕하세요, <span style="background-color=yellow">프론트엔드 개발자</span> 구수정입니다. <br />
-#### Java로 소프트웨어 및 웹개발을 해왔고 현재는 React, Typescript에 흥미를 가지고 공부하고 있습니다.
+
+안녕하세요, **프론트엔드 개발자** 구수정입니다. <br />
+Java로 소프트웨어 및 웹개발을 해왔고 현재는 React, Typescript에 흥미를 가지고 공부하고 있습니다🚀
 
 
 <br />
