@@ -1,4 +1,4 @@
-## 저의 Github에 찾아와주셔서 감사합니다 🙌
+## Welcome My Github 🙌
 
 안녕하세요, **프론트엔드 개발자 구수정**입니다. <br />
 Java로 소프트웨어 및 웹개발을 해왔고 현재는 React, Typescript에 흥미를 가지고 공부하고 있습니다🚀
