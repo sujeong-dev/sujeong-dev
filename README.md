@@ -14,7 +14,7 @@ Java로 소프트웨어 및 웹개발을 해왔고 현재는 React, Typescript�
 ![jQuery][jQuery] ![React][React] ![Sass][Sass] ![styled-component][styled-component]
 
 ### Server
-![MySQL][MySQL] ![Linux][Linux] ![Tomcat][Tomcat] ![Weblogic][Weblogic]
+![MySQL][MySQL] ![Linux][Linux] ![Tomcat][Tomcat]
 
 ### Collaboration
 ![GitHub][GitHub]  ![Slack][Slack] ![Trello][Trello] ![Notion][Notion]
